@@ -1,0 +1,16 @@
+anyio             
+distlib           
+fastapi           
+filelock          
+greenlet          
+idna              
+pip               
+platformdirs      
+pydantic          
+setuptools        
+six               
+sniffio          
+SQLAlchemy        
+starlette         
+typing_extensions 
+virtualenv        
