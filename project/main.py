@@ -10,7 +10,7 @@ models.Base.metadata.create_all(bind = engine)
 
 @app.get('/')
 def view():
-	return 'welcome to FastAPI Project '
+	return 'Welcome to FastAPI Project '
 
 
 #dependencies
